@@ -10,7 +10,3 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ## This is a markdown file
-
-```{r}
-print("Hellow World")
-```
